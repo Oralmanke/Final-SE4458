@@ -1,0 +1,36 @@
+.app{
+
+    .container{
+        .auth{
+            display: flex;
+            flex-direction: center;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            
+        }
+        .blood{
+            display: flex;
+            flex-direction: center;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .donor{
+            display: flex;
+            flex-direction: center;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .request{
+            display: flex;
+            flex-direction: center;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+    
+    }
+    
+}
